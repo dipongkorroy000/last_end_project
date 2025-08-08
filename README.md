@@ -62,7 +62,6 @@ See the package.json file for the complete list.
 
 ## Resources
 
-- [Live Project](https://your-live-project-link.com)
 - [React Documentation](https://react.dev/)
 - [Vite Documentation](https://vitejs.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/)
